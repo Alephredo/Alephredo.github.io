@@ -82,7 +82,7 @@ var Typer={
 			this.write("|"); // else write it
 	}
 }
-
+ 
 function replaceUrls(text) {
 	var http = text.indexOf("http://");
 	var space = text.indexOf(".me ", http);
