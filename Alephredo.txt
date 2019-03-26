@@ -1,0 +1,41 @@
+<span id="a">alfredo@m</span>:<span id="b">~</span><span id="c">$</span> cd Hola/<!-- laglaglaglaglaglag -->About_Us
+<span id="a">alfredo@m</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->Alephredo.txt<br/><br/>
+My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+
+Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+
+<p>Cheers!</p>
+
+<p>         _       _    _            _             _          </p>
+<p>        / /\    / /\ /\ \         _\ \          / /\        </p>
+<p>       / / /   / / //  \ \       /\__ \        / /  \       </p>
+<p>      / /_/   / / // /\ \ \     / /_ \_\      / / /\ \      </p>
+<p>     / /\ \__/ / // / /\ \ \   / / /\/_/     / / /\ \ \     </p>
+<p>    / /\ \___\/ // / /  \ \_\ / / /         / / /  \ \ \    </p>
+<p>   / / /\/___/ // / /   / / // / /         / / /___/ /\ \   </p>
+<p>  / / /   / / // / /   / / // / / ____    / / /_____/ /\ \  </p>
+<p> / / /   / / // / /___/ / // /_/_/ ___/\ / /_________/\ \ \ </p>
+<p>/ / /   / / // / /____\/ //_______/\__\// / /_       __\ \_\</p>
+<p>\/_/    \/_/ \/_________/ \_______\/    \_\___\     /____/_/</p>
+<p>                                                            </p>
+                                                            
+                                                            
+                                                            
+<br/>         _       _    _            _             _          
+<br/>        / /\    / /\ /\ \         _\ \          / /\        
+<br/>       / / /   / / //  \ \       /\__ \        / /  \       
+<br/>      / /_/   / / // /\ \ \     / /_ \_\      / / /\ \      
+<br/>     / /\ \__/ / // / /\ \ \   / / /\/_/     / / /\ \ \     
+<br/>    / /\ \___\/ // / /  \ \_\ / / /         / / /  \ \ \    
+<br/>   / / /\/___/ // / /   / / // / /         / / /___/ /\ \   
+<br/>  / / /   / / // / /   / / // / / ____    / / /_____/ /\ \  
+<br/> / / /   / / // / /___/ / // /_/_/ ___/\ / /_________/\ \ \ 
+<br/>/ / /   / / // / /____\/ //_______/\__\// / /_       __\ \_\
+<br/>\/_/    \/_/ \/_________/ \_______\/    \_\___\     /____/_/
+<br/>                                                           
